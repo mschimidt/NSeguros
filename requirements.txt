@@ -1,0 +1,6 @@
+pandas
+firebase-admin
+openpyxl
+xlrd
+flask
+flask-cors
