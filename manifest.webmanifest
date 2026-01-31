@@ -1,0 +1,1 @@
+{"name":"CRM Seguros","short_name":"CRM","start_url":"/NSeguros/","display":"standalone","background_color":"#f3f4f6","lang":"en","scope":"/NSeguros/","description":"Gestão de Carteira de Seguros","theme_color":"#2563eb","orientation":"portrait","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
